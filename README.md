@@ -15,13 +15,13 @@
 
 ## 📖 Documentation
 Full documentation is available here:  
-👉 [Plugin Documentation](https://www.knowledge.buzz/docs-mvc.html)
+👉 [Plugin Documentation](https://www.knowledge.buzz/menu-visibility-control)
 
 ---
 
 ## 🌐 Plugin Homepage
 Learn more and explore related plugins:  
-👉 [Plugin Homepage](https://www.knowledge.buzz/index.html)
+👉 [Plugin Homepage](https://www.knowledge.buzz/menu-visibility-control)
 
 ---
 
@@ -29,7 +29,7 @@ Learn more and explore related plugins:
 If you find this plugin useful, consider supporting its development.  
 Your donation helps maintain and improve the project.  
 
-👉 [Donate Securely](https://www.knowledge.buzz/donate.html)
+👉 [Donate Securely](https://www.knowledge.buzz/donate)
 
 ---
 
